@@ -1,5 +1,5 @@
-title: tonic-starter
-description: ""
+title: glassmorphism-jekyll
+description: "A cool theme for Jekyll using glassmorphism design"
 encoding: utf-8
 
 exclude: ["README.md", "LICENSE", "*.gem", "*.gemspec", "Gemfile.lock"]
